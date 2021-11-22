@@ -35,5 +35,6 @@
     "start": "webpack-dev-server --mode development",
     "lint": "eslint './src/**/*.js*'",
     "deploy": "webpack -p && gh-pages -d dist"
-  }
+  },
+  "homepage": "https://siobhan559.github.io/react-gifs/"
 }
